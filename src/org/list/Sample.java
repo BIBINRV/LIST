@@ -6,7 +6,7 @@ import java.util.List;
 public class Sample {
 	public static void main(String[] args) {
 		List a=new ArrayList();
-		a.add(50);
+		a.add(500);
 		a.add(20);
 		a.add(68);
 		a.add(78);
